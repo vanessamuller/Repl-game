@@ -1,4 +1,4 @@
-puts "Welcome to the guessing game!"
+puts "Welcome to the guessing game!!"
 puts "to play enter a 4 digit number and it will tell you if you get any of them right and if it is in the correct place"
 puts "Also, the numbers can be repeated in the code"
 puts "have fun guessing the secret combination!"
